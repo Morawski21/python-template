@@ -1,5 +1,5 @@
 def main():
-    print("Hello from musical-brain!")
+    print("Hello from the codebase!")
 
 
 if __name__ == "__main__":
